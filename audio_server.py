@@ -18,7 +18,6 @@ from cryptography.hazmat.primitives import serialization
 import datetime
 import socket
 
-#test
 
 load_dotenv()
 
